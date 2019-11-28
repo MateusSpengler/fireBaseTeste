@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">fireBaseAula</string>
+    <string name="title_activity_principal">PrincipalActivity</string>
+    <string name="title_activity_cadastrar">CadastrarActivity</string>
+</resources>
